@@ -1,0 +1,93 @@
+Microsoft Windows [Version 10.0.19045.2965]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\hp>cd -P
+The system cannot find the path specified.
+
+C:\Users\hp>where Hello.java
+'where' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hp>dir /s Hello.java
+ Volume in drive C has no label.
+ Volume Serial Number is A45F-8BBA
+
+ Directory of C:\Users\hp\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\files\archivesWithJavaPlugin\groovy\src\main\java
+
+19-04-2023  17:56               112 Hello.java
+               1 File(s)            112 bytes
+
+ Directory of C:\Users\hp\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\files\archivesWithJavaPlugin\kotlin\src\main\java
+
+19-04-2023  17:56               112 Hello.java
+               1 File(s)            112 bytes
+
+ Directory of C:\Users\hp\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\files\sampleJavaProject\groovy\src\main\java
+
+19-04-2023  17:56               112 Hello.java
+               1 File(s)            112 bytes
+
+ Directory of C:\Users\hp\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f\gradle-5.6.4\samples\userguide\files\sampleJavaProject\kotlin\src\main\java
+
+19-04-2023  17:56               112 Hello.java
+               1 File(s)            112 bytes
+
+ Directory of C:\Users\hp\eclipse-workspace\anupama_mam_jspiders\src\anupama_mam_jspiders
+
+28-05-2023  19:22               545 Hello.java
+               1 File(s)            545 bytes
+
+ Directory of C:\Users\hp\OneDrive\Desktop\New folder (4)\venv\Lib\site-packages\numpy\distutils\checks
+
+09-03-2023  20:33               119 Hello.java
+               1 File(s)            119 bytes
+
+     Total Files Listed:
+               6 File(s)          1,112 bytes
+               0 Dir(s)  289,531,240,448 bytes free
+
+C:\Users\hp>cd C:\
+
+C:\>F:
+
+F:\>dir /s hello.java
+ Volume in drive F is New Volume
+ Volume Serial Number is E471-C987
+
+ Directory of F:\
+
+18-05-2023  08:31               108 Hello.java
+               1 File(s)            108 bytes
+
+ Directory of F:\java
+
+13-06-2023  11:36               103 hello.java
+               1 File(s)            103 bytes
+
+ Directory of F:\praveen_java1
+
+04-06-2023  09:28                 6 Hello.java
+               1 File(s)              6 bytes
+
+     Total Files Listed:
+               3 File(s)            217 bytes
+               0 Dir(s)  254,638,870,528 bytes free
+
+F:\>dir /s /b hello.java
+F:\Hello.java
+F:\java\hello.java
+F:\praveen_java1\Hello.java
+
+F:\>c:\
+'c:\' is not recognized as an internal or external command,
+operable program or batch file.
+
+F:\>E:
+
+E:\>cd F:\
+
+E:\>cd F:\
+
+E:\>cd C:\
+
+E:\>
